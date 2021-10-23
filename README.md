@@ -1,4 +1,4 @@
-# Bambu Comimidas App (bambucomindasfront)
+# Bambu Comidas App (bambucomindasfront)
 
 Aplicacion para el control de negocios de comida
 
